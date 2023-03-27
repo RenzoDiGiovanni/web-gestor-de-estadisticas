@@ -1,0 +1,29 @@
+.activo{
+    color:rgba(255, 130, 0, 1) !important;
+}
+.nav-item {
+    margin-left: 12px;
+    font-size: 14px;
+    margin-bottom: 24px;
+}
+.nav-item a {
+    color: white;
+    text-decoration: none;
+}
+.nav {
+    background-color:#121524;
+    width: 15%;
+    height: 100vh;
+    position: fixed;
+    padding-top: 4vh;
+}
+hr {
+    width: 80%;
+    background-color: white;
+}
+.ultLinea {
+    margin-bottom: 10vh !important;
+}
+.cerrarSesion {
+    color: orangered !important;
+}
